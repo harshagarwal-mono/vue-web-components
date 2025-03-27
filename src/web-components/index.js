@@ -1,0 +1,5 @@
+import ChangeLanguage from './ChangeLanguage'
+import Counter from './Counter'
+import UserPost from './UserPost'
+import GlobalCounter from './GlobalCounter'
+import WcPageRouter from './PageRouter'
