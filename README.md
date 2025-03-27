@@ -28,9 +28,19 @@ npm run dev
 npm run build
 ```
 
+### WC Testing
+
+- Run command
+
+```sh
+npm run build:wc
+```
+
+- Download Live server vscode extension
+- start serving wc-usage/index.html file using live server
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
-# vue-web-components
